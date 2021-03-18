@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Andriy Kalandyak
-- 👀 I’m Full stack developer at Nyhetsthenester AS in Stavanger, Norway https://nyhetstjenester.no/
+- 👀 I’m  software engineer at Nyhetsthenester AS in Stavanger, Norway https://nyhetstjenester.no/
 - 📫 How to reach me - dev@nyhetstjenester.no
+
+Skills
 
 **Languages**: PHP 5/7, Python, MySQL 5, Javascript (ES3/5/6), HTML, CSS (SAAS  /  LESS);  
 **PHP-Frameworks**: Yii 2, Symfony 3, Laravel 8;  
