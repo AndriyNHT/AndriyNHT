@@ -9,7 +9,7 @@ Skills
 **Libraries and frameworks JS**:  JQuery, AngularJS 2, Backbone 2; VueJS ;  
 **OS**: Linux (Debian, Ubuntu, Mint, Deepin);  
 **IDE**: Atom, Brackets, NetBeans, PhpStorm;  
-**Technologies** : OOP, MVC, Design patterns, AJAX, RESTful, XML, JSON, Docker, Bash, Bootstrap;  
+**Technologies** : OOP, MVC, Design patterns, AJAX, RESTful, XML, JSON, Docker, Bash, Postman, Bootstrap;  
 **CVS**: Git (Bitbucket, Gitlab, Github );  
 **APIs, SDKs**: REST API, Google Map SDK, Facebook API, Linkedin API, Twitter API  
 **CMS**: WordPress + WooCommerce, Shopify, Open Cart, Bitrix, Tilda  
