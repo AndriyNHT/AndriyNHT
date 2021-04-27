@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andriy Kalandyak
 - 👀 I’m  software engineer at Nyhetsthenester AS in Stavanger, Norway https://nyhetstjenester.no/
-- 📫 How to reach me - dev@nyhetstjenester.no
+- 📫 How to reach me - post@nyhetstjenester.no
 
 Skills
 
